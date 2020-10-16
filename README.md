@@ -1,10 +1,10 @@
 # AutoAppel
 
 ## Informations ##
-Application : AutoAppel
-Version : 1.0
-Author : rezaazer123
-Contact : rezaazer123rezaazer123@gmail.com
+*Application : AutoAppel
+*Version : 1.0
+*Author : rezaazer123
+*Contact : rezaazer123rezaazer123@gmail.com
 
 The app might crash, always doublecheck that your presence has truly been checked :)
 
