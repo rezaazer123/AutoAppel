@@ -9,6 +9,10 @@
 The app might crash, always doublecheck that your presence has truly been checked :)
 
 
+## Download ##
+You can directly download all the files from here : http://www.mediafire.com/file/zomini8ljzw9bm9/AutoAppel.zip/file
+
+
 ## App configuration ##
 To configure the app, open "Settings.txt" and change the mail and password.
 Save and close after.
