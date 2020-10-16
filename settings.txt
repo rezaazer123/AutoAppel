@@ -1,0 +1,7 @@
+############# Adresse mail #############
+xxxxxxxxxxxxxx@edu.devinci.fr
+############# Mot de passe #############
+xxxxxxxxxxxxxx
+############# Délai (en s) #############
+10
+########################################
