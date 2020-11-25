@@ -10,7 +10,7 @@ The app might crash, always doublecheck that your presence has truly been checke
 
 
 ## Download ##
-You can directly download all the files from here : http://www.mediafire.com/file/zomini8ljzw9bm9/AutoAppel.zip/file
+You can directly download all the files from here : http://www.mediafire.com/file/a3yb4uazhbaubv1/AutoAppel.zip/file
 
 
 ## App configuration ##
