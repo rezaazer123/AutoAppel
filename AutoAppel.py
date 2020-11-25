@@ -29,7 +29,7 @@ while not appel:
 	driver.get("https://www.leonard-de-vinci.net/student/presences/")
 
 	courses = driver.find_elements_by_class_name("btn-primary")
-	print(len(courses))
+	print(str(len(courses)-1) + " cours aujourd'hui")
 
 	i = 0
 
